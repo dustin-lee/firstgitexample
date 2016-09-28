@@ -7,10 +7,14 @@ body {
 	width: 760px;
 	background-color: black;
 }
-body h1 p {
+body h1, p {
 	color: white;
 }
 #pics {
 	display: inline-block;
 	vertical-align: top;
+	margin-top: 20px;
 }
+	.dogrun{
+		border:2px solid #ccc;
+	}
